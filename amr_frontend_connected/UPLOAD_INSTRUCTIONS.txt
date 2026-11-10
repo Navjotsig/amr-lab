@@ -1,0 +1,10 @@
+AMR Lab frontend connected to the deployed FastAPI backend.
+
+Upload the CONTENTS of this folder to the ROOT of your existing GitHub repository:
+https://github.com/Navjotsig/amr-lab
+
+Do not upload this folder as a nested folder. Keep index.html at the repository root.
+The API URL is configured in api-config.js:
+https://amr-lab-content-api.onrender.com
+
+Commit the uploaded/replaced files. Keep the existing GitHub Pages settings (main / root).
